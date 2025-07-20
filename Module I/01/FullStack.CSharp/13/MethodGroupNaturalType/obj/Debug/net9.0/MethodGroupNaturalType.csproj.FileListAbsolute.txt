@@ -1,0 +1,14 @@
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\MethodGroupNaturalType\bin\Debug\net9.0\MethodGroupNaturalType.exe
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\MethodGroupNaturalType\bin\Debug\net9.0\MethodGroupNaturalType.deps.json
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\MethodGroupNaturalType\bin\Debug\net9.0\MethodGroupNaturalType.runtimeconfig.json
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\MethodGroupNaturalType\bin\Debug\net9.0\MethodGroupNaturalType.dll
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\MethodGroupNaturalType\bin\Debug\net9.0\MethodGroupNaturalType.pdb
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\MethodGroupNaturalType\obj\Debug\net9.0\MethodGroupNaturalType.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\MethodGroupNaturalType\obj\Debug\net9.0\MethodGroupNaturalType.AssemblyInfoInputs.cache
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\MethodGroupNaturalType\obj\Debug\net9.0\MethodGroupNaturalType.AssemblyInfo.cs
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\MethodGroupNaturalType\obj\Debug\net9.0\MethodGroupNaturalType.csproj.CoreCompileInputs.cache
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\MethodGroupNaturalType\obj\Debug\net9.0\MethodGroupNaturalType.dll
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\MethodGroupNaturalType\obj\Debug\net9.0\refint\MethodGroupNaturalType.dll
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\MethodGroupNaturalType\obj\Debug\net9.0\MethodGroupNaturalType.pdb
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\MethodGroupNaturalType\obj\Debug\net9.0\MethodGroupNaturalType.genruntimeconfig.cache
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\MethodGroupNaturalType\obj\Debug\net9.0\ref\MethodGroupNaturalType.dll

@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.MinimalVsController\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17862DB8-51BB-458C-82FB-166603DEA911}|FullStack.MinimalVsController.Minimal.Service\\FullStack.MinimalVsController.Minimal.Service.csproj|d:\\onedrive\\galaxy\\fullstack\\v6\\module i\\01\\fullstack.minimalvscontroller\\fullstack.minimalvscontroller.minimal.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17862DB8-51BB-458C-82FB-166603DEA911}|FullStack.MinimalVsController.Minimal.Service\\FullStack.MinimalVsController.Minimal.Service.csproj|solutionrelative:fullstack.minimalvscontroller.minimal.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17862DB8-51BB-458C-82FB-166603DEA911}|FullStack.MinimalVsController.Minimal.Service\\FullStack.MinimalVsController.Minimal.Service.csproj|d:\\onedrive\\galaxy\\fullstack\\v6\\module i\\01\\fullstack.minimalvscontroller\\fullstack.minimalvscontroller.minimal.service\\infrastructure\\extensions\\endpointroutebuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17862DB8-51BB-458C-82FB-166603DEA911}|FullStack.MinimalVsController.Minimal.Service\\FullStack.MinimalVsController.Minimal.Service.csproj|solutionrelative:fullstack.minimalvscontroller.minimal.service\\infrastructure\\extensions\\endpointroutebuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17862DB8-51BB-458C-82FB-166603DEA911}|FullStack.MinimalVsController.Minimal.Service\\FullStack.MinimalVsController.Minimal.Service.csproj|d:\\onedrive\\galaxy\\fullstack\\v6\\module i\\01\\fullstack.minimalvscontroller\\fullstack.minimalvscontroller.minimal.service\\infrastructure\\data\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17862DB8-51BB-458C-82FB-166603DEA911}|FullStack.MinimalVsController.Minimal.Service\\FullStack.MinimalVsController.Minimal.Service.csproj|solutionrelative:fullstack.minimalvscontroller.minimal.service\\infrastructure\\data\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17862DB8-51BB-458C-82FB-166603DEA911}|FullStack.MinimalVsController.Minimal.Service\\FullStack.MinimalVsController.Minimal.Service.csproj|d:\\onedrive\\galaxy\\fullstack\\v6\\module i\\01\\fullstack.minimalvscontroller\\fullstack.minimalvscontroller.minimal.service\\application\\dto\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17862DB8-51BB-458C-82FB-166603DEA911}|FullStack.MinimalVsController.Minimal.Service\\FullStack.MinimalVsController.Minimal.Service.csproj|solutionrelative:fullstack.minimalvscontroller.minimal.service\\application\\dto\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17862DB8-51BB-458C-82FB-166603DEA911}|FullStack.MinimalVsController.Minimal.Service\\FullStack.MinimalVsController.Minimal.Service.csproj|d:\\onedrive\\galaxy\\fullstack\\v6\\module i\\01\\fullstack.minimalvscontroller\\fullstack.minimalvscontroller.minimal.service\\application\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17862DB8-51BB-458C-82FB-166603DEA911}|FullStack.MinimalVsController.Minimal.Service\\FullStack.MinimalVsController.Minimal.Service.csproj|solutionrelative:fullstack.minimalvscontroller.minimal.service\\application\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BB910D-9F75-4798-91F1-9FC8A0D3D23D}|FullStack.MinimalVsController.Controller.Service\\FullStack.MinimalVsController.Controller.Service.csproj|d:\\onedrive\\galaxy\\fullstack\\v6\\module i\\01\\fullstack.minimalvscontroller\\fullstack.minimalvscontroller.controller.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BB910D-9F75-4798-91F1-9FC8A0D3D23D}|FullStack.MinimalVsController.Controller.Service\\FullStack.MinimalVsController.Controller.Service.csproj|solutionrelative:fullstack.minimalvscontroller.controller.service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BB910D-9F75-4798-91F1-9FC8A0D3D23D}|FullStack.MinimalVsController.Controller.Service\\FullStack.MinimalVsController.Controller.Service.csproj|d:\\onedrive\\galaxy\\fullstack\\v6\\module i\\01\\fullstack.minimalvscontroller\\fullstack.minimalvscontroller.controller.service\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BB910D-9F75-4798-91F1-9FC8A0D3D23D}|FullStack.MinimalVsController.Controller.Service\\FullStack.MinimalVsController.Controller.Service.csproj|solutionrelative:fullstack.minimalvscontroller.controller.service\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94BB910D-9F75-4798-91F1-9FC8A0D3D23D}|FullStack.MinimalVsController.Controller.Service\\FullStack.MinimalVsController.Controller.Service.csproj|d:\\onedrive\\galaxy\\fullstack\\v6\\module i\\01\\fullstack.minimalvscontroller\\fullstack.minimalvscontroller.controller.service\\application\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94BB910D-9F75-4798-91F1-9FC8A0D3D23D}|FullStack.MinimalVsController.Controller.Service\\FullStack.MinimalVsController.Controller.Service.csproj|solutionrelative:fullstack.minimalvscontroller.controller.service\\application\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1868876116:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1972725675:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EndpointRouteBuilderExtensions.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.MinimalVsController\\FullStack.MinimalVsController.Minimal.Service\\Infrastructure\\Extensions\\EndpointRouteBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "FullStack.MinimalVsController.Minimal.Service\\Infrastructure\\Extensions\\EndpointRouteBuilderExtensions.cs",
+              "ToolTip": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.MinimalVsController\\FullStack.MinimalVsController.Minimal.Service\\Infrastructure\\Extensions\\EndpointRouteBuilderExtensions.cs",
+              "RelativeToolTip": "FullStack.MinimalVsController.Minimal.Service\\Infrastructure\\Extensions\\EndpointRouteBuilderExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T23:50:58.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.MinimalVsController\\FullStack.MinimalVsController.Minimal.Service\\Infrastructure\\Data\\Person.cs",
+              "RelativeDocumentMoniker": "FullStack.MinimalVsController.Minimal.Service\\Infrastructure\\Data\\Person.cs",
+              "ToolTip": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.MinimalVsController\\FullStack.MinimalVsController.Minimal.Service\\Infrastructure\\Data\\Person.cs",
+              "RelativeToolTip": "FullStack.MinimalVsController.Minimal.Service\\Infrastructure\\Data\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T23:50:48.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonDto.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.MinimalVsController\\FullStack.MinimalVsController.Minimal.Service\\Application\\Dto\\PersonDto.cs",
+              "RelativeDocumentMoniker": "FullStack.MinimalVsController.Minimal.Service\\Application\\Dto\\PersonDto.cs",
+              "ToolTip": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.MinimalVsController\\FullStack.MinimalVsController.Minimal.Service\\Application\\Dto\\PersonDto.cs",
+              "RelativeToolTip": "FullStack.MinimalVsController.Minimal.Service\\Application\\Dto\\PersonDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T23:50:37.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.MinimalVsController\\FullStack.MinimalVsController.Minimal.Service\\Application\\PersonService.cs",
+              "RelativeDocumentMoniker": "FullStack.MinimalVsController.Minimal.Service\\Application\\PersonService.cs",
+              "ToolTip": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.MinimalVsController\\FullStack.MinimalVsController.Minimal.Service\\Application\\PersonService.cs",
+              "RelativeToolTip": "FullStack.MinimalVsController.Minimal.Service\\Application\\PersonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T23:50:00.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.MinimalVsController\\FullStack.MinimalVsController.Minimal.Service\\Program.cs",
+              "RelativeDocumentMoniker": "FullStack.MinimalVsController.Minimal.Service\\Program.cs",
+              "ToolTip": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.MinimalVsController\\FullStack.MinimalVsController.Minimal.Service\\Program.cs",
+              "RelativeToolTip": "FullStack.MinimalVsController.Minimal.Service\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T23:49:44.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.MinimalVsController\\FullStack.MinimalVsController.Controller.Service\\Program.cs",
+              "RelativeDocumentMoniker": "FullStack.MinimalVsController.Controller.Service\\Program.cs",
+              "ToolTip": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.MinimalVsController\\FullStack.MinimalVsController.Controller.Service\\Program.cs",
+              "RelativeToolTip": "FullStack.MinimalVsController.Controller.Service\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T23:43:53.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.MinimalVsController\\FullStack.MinimalVsController.Controller.Service\\Application\\PersonService.cs",
+              "RelativeDocumentMoniker": "FullStack.MinimalVsController.Controller.Service\\Application\\PersonService.cs",
+              "ToolTip": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.MinimalVsController\\FullStack.MinimalVsController.Controller.Service\\Application\\PersonService.cs",
+              "RelativeToolTip": "FullStack.MinimalVsController.Controller.Service\\Application\\PersonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T23:43:28.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PeopleController.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.MinimalVsController\\FullStack.MinimalVsController.Controller.Service\\Controllers\\PeopleController.cs",
+              "RelativeDocumentMoniker": "FullStack.MinimalVsController.Controller.Service\\Controllers\\PeopleController.cs",
+              "ToolTip": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.MinimalVsController\\FullStack.MinimalVsController.Controller.Service\\Controllers\\PeopleController.cs",
+              "RelativeToolTip": "FullStack.MinimalVsController.Controller.Service\\Controllers\\PeopleController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T23:38:16.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+﻿@page "/"
+@rendermode InteractiveServer
+@inject NavigationManager Navigation
+// Los datos son proporcionados por el servicio inyectado
+@inject DataService DataService
+
+
+<h1>Blazor Server - .NET 9 Features</h1>
+
+<!-- Control de Rango -->
+<div>
+    <label>
+        Ajustar rango (1-10):
+        <InputNumber @bind-Value="RangeValue" type="range" min="1" max="10" step="1"/>
+    </label>
+    <p>Valor seleccionado: @RangeValue</p>
+</div>
+
+<!-- QuickGrid para Datos -->
+<!-- Nueva característica: Virtualización y OverscanCount -->
+<QuickGrid Items="DataService.Items" Virtualize="true" OverscanCount="4">
+    <PropertyColumn Property="item => item.Id" Title="ID" />
+    <PropertyColumn Property="item => item.Name" Title="Nombre" />
+</QuickGrid>
+
+<!-- Navegación -->
+<div class="mt-3">
+    <button class="btn btn-primary" @onclick="NavigateToCounter">Go to counter</button>
+</div>
+
+@code {
+    private int RangeValue = 5;
+
+    private void NavigateToCounter()
+    {
+        Navigation.NavigateTo("/counter");
+    }
+}

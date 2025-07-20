@@ -1,0 +1,14 @@
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\ImplicitIndexAccess\bin\Debug\net9.0\ImplicitIndexAccess.exe
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\ImplicitIndexAccess\bin\Debug\net9.0\ImplicitIndexAccess.deps.json
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\ImplicitIndexAccess\bin\Debug\net9.0\ImplicitIndexAccess.runtimeconfig.json
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\ImplicitIndexAccess\bin\Debug\net9.0\ImplicitIndexAccess.dll
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\ImplicitIndexAccess\bin\Debug\net9.0\ImplicitIndexAccess.pdb
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\ImplicitIndexAccess\obj\Debug\net9.0\ImplicitIndexAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\ImplicitIndexAccess\obj\Debug\net9.0\ImplicitIndexAccess.AssemblyInfoInputs.cache
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\ImplicitIndexAccess\obj\Debug\net9.0\ImplicitIndexAccess.AssemblyInfo.cs
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\ImplicitIndexAccess\obj\Debug\net9.0\ImplicitIndexAccess.csproj.CoreCompileInputs.cache
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\ImplicitIndexAccess\obj\Debug\net9.0\ImplicitIndexAccess.dll
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\ImplicitIndexAccess\obj\Debug\net9.0\refint\ImplicitIndexAccess.dll
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\ImplicitIndexAccess\obj\Debug\net9.0\ImplicitIndexAccess.pdb
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\ImplicitIndexAccess\obj\Debug\net9.0\ImplicitIndexAccess.genruntimeconfig.cache
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\ImplicitIndexAccess\obj\Debug\net9.0\ref\ImplicitIndexAccess.dll

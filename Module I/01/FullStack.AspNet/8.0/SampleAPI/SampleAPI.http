@@ -1,0 +1,27 @@
+@SampleAPI_HostAddress = http://localhost:5229
+
+GET {{SampleAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{SampleAPI_HostAddress}}/weatherforecast?date=2023-05-11&location=98006
+
+###
+
+POST {{SampleAPI_HostAddress}}/weatherforecast
+Content-Type: application/json
+Accept-Language: en-US,en;q=0.5
+
+{
+    "date": "2023-12-12",
+    "temperatureC": 10,
+    "summary": "Warm"
+}
+
+###
+
+
+GET {{SampleAPI_HostAddress}}/weatherforecast/string
+
+###

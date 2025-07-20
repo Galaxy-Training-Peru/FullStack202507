@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.AspNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F004FFD-8C2C-4FB6-96A0-19C71F7E7E74}|9.0\\StaticAssetDeliveryOptimization\\StaticAssetDeliveryOptimization.csproj|d:\\onedrive\\galaxy\\fullstack\\v6\\module i\\01\\fullstack.aspnet\\9.0\\staticassetdeliveryoptimization\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8F004FFD-8C2C-4FB6-96A0-19C71F7E7E74}|9.0\\StaticAssetDeliveryOptimization\\StaticAssetDeliveryOptimization.csproj|solutionrelative:9.0\\staticassetdeliveryoptimization\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F004FFD-8C2C-4FB6-96A0-19C71F7E7E74}|9.0\\StaticAssetDeliveryOptimization\\StaticAssetDeliveryOptimization.csproj|d:\\onedrive\\galaxy\\fullstack\\v6\\module i\\01\\fullstack.aspnet\\9.0\\staticassetdeliveryoptimization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F004FFD-8C2C-4FB6-96A0-19C71F7E7E74}|9.0\\StaticAssetDeliveryOptimization\\StaticAssetDeliveryOptimization.csproj|solutionrelative:9.0\\staticassetdeliveryoptimization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F004FFD-8C2C-4FB6-96A0-19C71F7E7E74}|9.0\\StaticAssetDeliveryOptimization\\StaticAssetDeliveryOptimization.csproj|d:\\onedrive\\galaxy\\fullstack\\v6\\module i\\01\\fullstack.aspnet\\9.0\\staticassetdeliveryoptimization\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8F004FFD-8C2C-4FB6-96A0-19C71F7E7E74}|9.0\\StaticAssetDeliveryOptimization\\StaticAssetDeliveryOptimization.csproj|solutionrelative:9.0\\staticassetdeliveryoptimization\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F004FFD-8C2C-4FB6-96A0-19C71F7E7E74}|9.0\\StaticAssetDeliveryOptimization\\StaticAssetDeliveryOptimization.csproj|d:\\onedrive\\galaxy\\fullstack\\v6\\module i\\01\\fullstack.aspnet\\9.0\\staticassetdeliveryoptimization\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F004FFD-8C2C-4FB6-96A0-19C71F7E7E74}|9.0\\StaticAssetDeliveryOptimization\\StaticAssetDeliveryOptimization.csproj|solutionrelative:9.0\\staticassetdeliveryoptimization\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9408F287-C5F7-4CC0-91EF-97766438049B}|9.0\\SignalRServer\\SignalRServer.csproj|d:\\onedrive\\galaxy\\fullstack\\v6\\module i\\01\\fullstack.aspnet\\9.0\\signalrserver\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9408F287-C5F7-4CC0-91EF-97766438049B}|9.0\\SignalRServer\\SignalRServer.csproj|solutionrelative:9.0\\signalrserver\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9408F287-C5F7-4CC0-91EF-97766438049B}|9.0\\SignalRServer\\SignalRServer.csproj|d:\\onedrive\\galaxy\\fullstack\\v6\\module i\\01\\fullstack.aspnet\\9.0\\signalrserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9408F287-C5F7-4CC0-91EF-97766438049B}|9.0\\SignalRServer\\SignalRServer.csproj|solutionrelative:9.0\\signalrserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9408F287-C5F7-4CC0-91EF-97766438049B}|9.0\\SignalRServer\\SignalRServer.csproj|d:\\onedrive\\galaxy\\fullstack\\v6\\module i\\01\\fullstack.aspnet\\9.0\\signalrserver\\signalrserver.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9408F287-C5F7-4CC0-91EF-97766438049B}|9.0\\SignalRServer\\SignalRServer.csproj|solutionrelative:9.0\\signalrserver\\signalrserver.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE383FA-E33C-49E1-9066-331851BBE73E}|9.0\\BlazorWebServer\\BlazorWebServer.csproj|d:\\onedrive\\galaxy\\fullstack\\v6\\module i\\01\\fullstack.aspnet\\9.0\\blazorwebserver\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AE383FA-E33C-49E1-9066-331851BBE73E}|9.0\\BlazorWebServer\\BlazorWebServer.csproj|solutionrelative:9.0\\blazorwebserver\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE383FA-E33C-49E1-9066-331851BBE73E}|9.0\\BlazorWebServer\\BlazorWebServer.csproj|d:\\onedrive\\galaxy\\fullstack\\v6\\module i\\01\\fullstack.aspnet\\9.0\\blazorwebserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE383FA-E33C-49E1-9066-331851BBE73E}|9.0\\BlazorWebServer\\BlazorWebServer.csproj|solutionrelative:9.0\\blazorwebserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE383FA-E33C-49E1-9066-331851BBE73E}|9.0\\BlazorWebServer\\BlazorWebServer.csproj|d:\\onedrive\\galaxy\\fullstack\\v6\\module i\\01\\fullstack.aspnet\\9.0\\blazorwebserver\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE383FA-E33C-49E1-9066-331851BBE73E}|9.0\\BlazorWebServer\\BlazorWebServer.csproj|solutionrelative:9.0\\blazorwebserver\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4B106CC-37C9-4363-A519-995903305BA9}|9.0\\MinimalApi\\MinimalApi.csproj|d:\\onedrive\\galaxy\\fullstack\\v6\\module i\\01\\fullstack.aspnet\\9.0\\minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4B106CC-37C9-4363-A519-995903305BA9}|9.0\\MinimalApi\\MinimalApi.csproj|solutionrelative:9.0\\minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582A714B-26EC-46FD-A2E7-C2DDD2DD17EE}|9.0\\OpenAPI\\OpenAPI.csproj|d:\\onedrive\\galaxy\\fullstack\\v6\\module i\\01\\fullstack.aspnet\\9.0\\openapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{582A714B-26EC-46FD-A2E7-C2DDD2DD17EE}|9.0\\OpenAPI\\OpenAPI.csproj|solutionrelative:9.0\\openapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.AspNet\\9.0\\StaticAssetDeliveryOptimization\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "9.0\\StaticAssetDeliveryOptimization\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.AspNet\\9.0\\StaticAssetDeliveryOptimization\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "9.0\\StaticAssetDeliveryOptimization\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-19T23:27:03.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.AspNet\\9.0\\StaticAssetDeliveryOptimization\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "9.0\\StaticAssetDeliveryOptimization\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.AspNet\\9.0\\StaticAssetDeliveryOptimization\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "9.0\\StaticAssetDeliveryOptimization\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-19T23:26:42.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.AspNet\\9.0\\StaticAssetDeliveryOptimization\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "9.0\\StaticAssetDeliveryOptimization\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.AspNet\\9.0\\StaticAssetDeliveryOptimization\\Pages\\Index.cshtml",
+              "RelativeToolTip": "9.0\\StaticAssetDeliveryOptimization\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T23:26:31.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.AspNet\\9.0\\StaticAssetDeliveryOptimization\\Program.cs",
+              "RelativeDocumentMoniker": "9.0\\StaticAssetDeliveryOptimization\\Program.cs",
+              "ToolTip": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.AspNet\\9.0\\StaticAssetDeliveryOptimization\\Program.cs",
+              "RelativeToolTip": "9.0\\StaticAssetDeliveryOptimization\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T23:25:49.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SignalRServer",
+              "DocumentMoniker": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.AspNet\\9.0\\SignalRServer\\SignalRServer.csproj",
+              "RelativeDocumentMoniker": "9.0\\SignalRServer\\SignalRServer.csproj",
+              "ToolTip": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.AspNet\\9.0\\SignalRServer\\SignalRServer.csproj",
+              "RelativeToolTip": "9.0\\SignalRServer\\SignalRServer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-19T23:20:00.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.AspNet\\9.0\\SignalRServer\\ChatHub.cs",
+              "RelativeDocumentMoniker": "9.0\\SignalRServer\\ChatHub.cs",
+              "ToolTip": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.AspNet\\9.0\\SignalRServer\\ChatHub.cs",
+              "RelativeToolTip": "9.0\\SignalRServer\\ChatHub.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T23:18:45.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.AspNet\\9.0\\SignalRServer\\Program.cs",
+              "RelativeDocumentMoniker": "9.0\\SignalRServer\\Program.cs",
+              "ToolTip": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.AspNet\\9.0\\SignalRServer\\Program.cs",
+              "RelativeToolTip": "9.0\\SignalRServer\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T23:18:43.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.AspNet\\9.0\\BlazorWebServer\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "9.0\\BlazorWebServer\\Components\\Pages\\Counter.razor",
+              "ToolTip": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.AspNet\\9.0\\BlazorWebServer\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "9.0\\BlazorWebServer\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T23:09:02.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.AspNet\\9.0\\BlazorWebServer\\DataService.cs",
+              "RelativeDocumentMoniker": "9.0\\BlazorWebServer\\DataService.cs",
+              "ToolTip": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.AspNet\\9.0\\BlazorWebServer\\DataService.cs",
+              "RelativeToolTip": "9.0\\BlazorWebServer\\DataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T23:06:38.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.AspNet\\9.0\\BlazorWebServer\\Program.cs",
+              "RelativeDocumentMoniker": "9.0\\BlazorWebServer\\Program.cs",
+              "ToolTip": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.AspNet\\9.0\\BlazorWebServer\\Program.cs",
+              "RelativeToolTip": "9.0\\BlazorWebServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T23:06:36.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.AspNet\\9.0\\MinimalApi\\Program.cs",
+              "RelativeDocumentMoniker": "9.0\\MinimalApi\\Program.cs",
+              "ToolTip": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.AspNet\\9.0\\MinimalApi\\Program.cs",
+              "RelativeToolTip": "9.0\\MinimalApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T23:06:17.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.AspNet\\9.0\\OpenAPI\\Program.cs",
+              "RelativeDocumentMoniker": "9.0\\OpenAPI\\Program.cs",
+              "ToolTip": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.AspNet\\9.0\\OpenAPI\\Program.cs",
+              "RelativeToolTip": "9.0\\OpenAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:05:07.559Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

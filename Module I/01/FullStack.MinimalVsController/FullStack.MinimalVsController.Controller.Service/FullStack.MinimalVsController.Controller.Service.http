@@ -1,0 +1,6 @@
+@FullStack.MinimalVsController.Controller.Service_HostAddress = http://localhost:5125
+
+GET {{FullStack.MinimalVsController.Controller.Service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "FullStack.MinimalVsController.Controller.Service.Controllers.PeopleController",
+    "Method": "GetPeople",
+    "RelativePath": "api/People",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

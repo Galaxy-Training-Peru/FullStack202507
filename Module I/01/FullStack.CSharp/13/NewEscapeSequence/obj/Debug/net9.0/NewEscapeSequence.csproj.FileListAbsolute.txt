@@ -1,0 +1,14 @@
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\NewEscapeSequence\bin\Debug\net9.0\NewEscapeSequence.exe
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\NewEscapeSequence\bin\Debug\net9.0\NewEscapeSequence.deps.json
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\NewEscapeSequence\bin\Debug\net9.0\NewEscapeSequence.runtimeconfig.json
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\NewEscapeSequence\bin\Debug\net9.0\NewEscapeSequence.dll
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\NewEscapeSequence\bin\Debug\net9.0\NewEscapeSequence.pdb
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\NewEscapeSequence\obj\Debug\net9.0\NewEscapeSequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\NewEscapeSequence\obj\Debug\net9.0\NewEscapeSequence.AssemblyInfoInputs.cache
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\NewEscapeSequence\obj\Debug\net9.0\NewEscapeSequence.AssemblyInfo.cs
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\NewEscapeSequence\obj\Debug\net9.0\NewEscapeSequence.csproj.CoreCompileInputs.cache
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\NewEscapeSequence\obj\Debug\net9.0\NewEscapeSequence.dll
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\NewEscapeSequence\obj\Debug\net9.0\refint\NewEscapeSequence.dll
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\NewEscapeSequence\obj\Debug\net9.0\NewEscapeSequence.pdb
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\NewEscapeSequence\obj\Debug\net9.0\NewEscapeSequence.genruntimeconfig.cache
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\NewEscapeSequence\obj\Debug\net9.0\ref\NewEscapeSequence.dll

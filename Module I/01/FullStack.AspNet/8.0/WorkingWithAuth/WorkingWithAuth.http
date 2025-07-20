@@ -1,0 +1,31 @@
+@WorkingWithAuth_HostAddress = https://localhost:7225
+
+GET {{WorkingWithAuth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+### Register a new user
+POST {{WorkingWithAuth_HostAddress}}/account/register
+Content-Type: application/json
+
+{
+  "username": "erick@local.test",
+  "password": "P@ssword1234",
+  "email": "erick@local.test"
+}
+
+### Login and retrieve tokens
+POST {{WorkingWithAuth_HostAddress}}/account/login
+Content-Type: application/json
+
+{
+  "username": "erick@local.test",
+  "password": "P@ssword1234",
+  "email": "erick@local.test"
+}
+
+### Make authenticated call
+GET {{WorkingWithAuth_HostAddress}}/weatherforecast/
+Authorization: Bearer CfDJ8GBTV1CYVMhLobtsDshqXlPdoUuZnPeR092pPP1PVaA3acrscE4DU1vdzQSFIGdT1qWcC1j3WpzyGNMCmrmTitkdrN69Nalglegy1R8b5YjJdSXwH8MZQwEzkYSAPewYZv7NAru6WngVFUfzH3ezTslzD4D49orr4hSgHaowKO4a1i5_MRoVSK4CpW4HomkI18Wtmt5DmP7BczC0b8N6NvPhyqD9g2c_zCZ6MnLU8gynyl4bAOqB3zVbyXc9HJqiSHELDDHN50zr_e0qCsFT03DPVG1w6BoX6JXjTeuW6sNhORmyJwGxZ2idHBYrkpc41pgljMAZdO5MHZA0sgRAwVMhNRXVh6T9lrA4EvTYaMFu34DRJTb1KeChpDKlga7BjnifJq05kXICZ3Qc_awEw-Z0PGkmxPrQ8p9vJUx1w2YIh9BsJYhFmdjnhcO9AikD2FbT8BYCb5LpdqaC79DVgdQ1zq1EtxgqSqONQ41ursPsDWjULfFL5CLFfWQ4vfVwWHymwQEyIfVEsXixVy1OvEbeXTqHAEXE8DzxBTNIBi2_Oor0NWD6J7FpNgGp31X9vsXlnSUqB3VwxKXLk4ThO4-Wf8IbyES2QVIZlhQ-73gEdA7X0FICKzPOGexEl-ouJbKxKHdA4qgxEoiBA8G9vjAfVzu9-McnV6B1uikRn4N9-h0xyxdxGu6sk2UQshCDUQ
+Accept: application/json

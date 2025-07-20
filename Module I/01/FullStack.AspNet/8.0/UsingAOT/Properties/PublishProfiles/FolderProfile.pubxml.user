@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\OneDrive\Galaxy\FullStack\v5\Module I\01\AspNet\UsingAOT\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-03-31T03:09:25.0038814Z;False|2024-03-31T05:08:16.3138287+02:00;True|2024-03-31T05:06:39.5575259+02:00;True|2024-03-31T05:04:57.4702075+02:00;False|2024-03-31T05:04:02.4613646+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

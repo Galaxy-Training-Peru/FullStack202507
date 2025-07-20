@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCF1DF2-9814-4C40-A164-7DBD645D3C7B}|13\\MethodGroupNaturalType\\MethodGroupNaturalType.csproj|d:\\onedrive\\galaxy\\fullstack\\v6\\module i\\01\\fullstack.csharp\\13\\methodgroupnaturaltype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCF1DF2-9814-4C40-A164-7DBD645D3C7B}|13\\MethodGroupNaturalType\\MethodGroupNaturalType.csproj|solutionrelative:13\\methodgroupnaturaltype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9664CCA5-03C6-4157-8D4F-8D3AA6DBD609}|13\\ImplicitIndexAccess\\ImplicitIndexAccess.csproj|d:\\onedrive\\galaxy\\fullstack\\v6\\module i\\01\\fullstack.csharp\\13\\implicitindexaccess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9664CCA5-03C6-4157-8D4F-8D3AA6DBD609}|13\\ImplicitIndexAccess\\ImplicitIndexAccess.csproj|solutionrelative:13\\implicitindexaccess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AFFF93-8AC3-4051-931C-B6E85F786CC7}|13\\NewEscapeSequence\\NewEscapeSequence.csproj|d:\\onedrive\\galaxy\\fullstack\\v6\\module i\\01\\fullstack.csharp\\13\\newescapesequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AFFF93-8AC3-4051-931C-B6E85F786CC7}|13\\NewEscapeSequence\\NewEscapeSequence.csproj|solutionrelative:13\\newescapesequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2134AB8-385C-414B-B255-63E054AF5D18}|13\\NewLockObject\\NewLockObject.csproj|d:\\onedrive\\galaxy\\fullstack\\v6\\module i\\01\\fullstack.csharp\\13\\newlockobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2134AB8-385C-414B-B255-63E054AF5D18}|13\\NewLockObject\\NewLockObject.csproj|solutionrelative:13\\newlockobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDF3EF3-954A-481E-8A57-3BAA01CC5467}|13\\ParamsCollections\\ParamsCollections.csproj|d:\\onedrive\\galaxy\\fullstack\\v6\\module i\\01\\fullstack.csharp\\13\\paramscollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDF3EF3-954A-481E-8A57-3BAA01CC5467}|13\\ParamsCollections\\ParamsCollections.csproj|solutionrelative:13\\paramscollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B54915-8433-4470-BE48-FAD769753956}|13\\UnsafeAsync\\UnsafeAsync.csproj|d:\\onedrive\\galaxy\\fullstack\\v6\\module i\\01\\fullstack.csharp\\13\\unsafeasync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B54915-8433-4470-BE48-FAD769753956}|13\\UnsafeAsync\\UnsafeAsync.csproj|solutionrelative:13\\unsafeasync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB4A5B3-BD21-441B-8E3F-B9D87FFBE8D6}|13\\RefAsync\\RefAsync.csproj|d:\\onedrive\\galaxy\\fullstack\\v6\\module i\\01\\fullstack.csharp\\13\\refasync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB4A5B3-BD21-441B-8E3F-B9D87FFBE8D6}|13\\RefAsync\\RefAsync.csproj|solutionrelative:13\\refasync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDF3EF3-954A-481E-8A57-3BAA01CC5467}|13\\ParamsCollections\\ParamsCollections.csproj|d:\\onedrive\\galaxy\\fullstack\\v6\\module i\\01\\fullstack.csharp\\13\\paramscollections\\paramscollections.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FDDF3EF3-954A-481E-8A57-3BAA01CC5467}|13\\ParamsCollections\\ParamsCollections.csproj|solutionrelative:13\\paramscollections\\paramscollections.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1868876116:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1972725675:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.CSharp\\13\\UnsafeAsync\\Program.cs",
+              "RelativeDocumentMoniker": "13\\UnsafeAsync\\Program.cs",
+              "ToolTip": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.CSharp\\13\\UnsafeAsync\\Program.cs",
+              "RelativeToolTip": "13\\UnsafeAsync\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T04:56:24.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.CSharp\\13\\RefAsync\\Program.cs",
+              "RelativeDocumentMoniker": "13\\RefAsync\\Program.cs",
+              "ToolTip": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.CSharp\\13\\RefAsync\\Program.cs",
+              "RelativeToolTip": "13\\RefAsync\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T04:54:39.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.CSharp\\13\\MethodGroupNaturalType\\Program.cs",
+              "RelativeDocumentMoniker": "13\\MethodGroupNaturalType\\Program.cs",
+              "ToolTip": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.CSharp\\13\\MethodGroupNaturalType\\Program.cs",
+              "RelativeToolTip": "13\\MethodGroupNaturalType\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA9wCoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T04:30:55.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.CSharp\\13\\ImplicitIndexAccess\\Program.cs",
+              "RelativeDocumentMoniker": "13\\ImplicitIndexAccess\\Program.cs",
+              "ToolTip": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.CSharp\\13\\ImplicitIndexAccess\\Program.cs",
+              "RelativeToolTip": "13\\ImplicitIndexAccess\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T04:20:23.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.CSharp\\13\\NewEscapeSequence\\Program.cs",
+              "RelativeDocumentMoniker": "13\\NewEscapeSequence\\Program.cs",
+              "ToolTip": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.CSharp\\13\\NewEscapeSequence\\Program.cs",
+              "RelativeToolTip": "13\\NewEscapeSequence\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T04:06:05.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.CSharp\\13\\NewLockObject\\Program.cs",
+              "RelativeDocumentMoniker": "13\\NewLockObject\\Program.cs",
+              "ToolTip": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.CSharp\\13\\NewLockObject\\Program.cs",
+              "RelativeToolTip": "13\\NewLockObject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T03:59:01.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ParamsCollections.csproj",
+              "DocumentMoniker": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.CSharp\\13\\ParamsCollections\\ParamsCollections.csproj",
+              "RelativeDocumentMoniker": "13\\ParamsCollections\\ParamsCollections.csproj",
+              "ToolTip": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.CSharp\\13\\ParamsCollections\\ParamsCollections.csproj",
+              "RelativeToolTip": "13\\ParamsCollections\\ParamsCollections.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-27T03:37:25.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.CSharp\\13\\ParamsCollections\\Program.cs",
+              "RelativeDocumentMoniker": "13\\ParamsCollections\\Program.cs",
+              "ToolTip": "D:\\OneDrive\\Galaxy\\FullStack\\v6\\Module I\\01\\FullStack.CSharp\\13\\ParamsCollections\\Program.cs",
+              "RelativeToolTip": "13\\ParamsCollections\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T03:35:56.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

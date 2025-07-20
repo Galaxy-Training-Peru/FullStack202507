@@ -1,0 +1,14 @@
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\ParamsCollections\obj\Debug\net9.0\ParamsCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\ParamsCollections\obj\Debug\net9.0\ParamsCollections.AssemblyInfoInputs.cache
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\ParamsCollections\obj\Debug\net9.0\ParamsCollections.AssemblyInfo.cs
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\ParamsCollections\obj\Debug\net9.0\ParamsCollections.csproj.CoreCompileInputs.cache
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\ParamsCollections\bin\Debug\net9.0\ParamsCollections.exe
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\ParamsCollections\bin\Debug\net9.0\ParamsCollections.deps.json
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\ParamsCollections\bin\Debug\net9.0\ParamsCollections.runtimeconfig.json
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\ParamsCollections\bin\Debug\net9.0\ParamsCollections.dll
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\ParamsCollections\bin\Debug\net9.0\ParamsCollections.pdb
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\ParamsCollections\obj\Debug\net9.0\ParamsCollections.dll
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\ParamsCollections\obj\Debug\net9.0\refint\ParamsCollections.dll
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\ParamsCollections\obj\Debug\net9.0\ParamsCollections.pdb
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\ParamsCollections\obj\Debug\net9.0\ParamsCollections.genruntimeconfig.cache
+D:\OneDrive\Galaxy\FullStack\v6\Module I\01\FullStack.CSharp\13\ParamsCollections\obj\Debug\net9.0\ref\ParamsCollections.dll
